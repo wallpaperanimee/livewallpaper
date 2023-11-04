@@ -1,7 +1,7 @@
 {
   "Cofig": {
-    "PrivacyPolicy": "https://www.covershootstudio.xyz/privacy-policy.html",
-    "MoreApp": "https://play.google.com/store/apps/developer?id=Cover+Shoot+Studio",
+    "PrivacyPolicy": "https://sites.google.com/view/sahelistudioapp/home",
+    "MoreApp": "https://play.google.com/store/apps/developer?id=SaheliStudioApp",
     "ad_status": "1",
     //Supported main ads value: admob, google_ad_manager, fan, startapp, unity, applovin_max, applovin_discovery or ironsource
     "ad_type": "admob",
@@ -797,7 +797,7 @@
       "category_id": "1",
       "category_name": "Anime",
       "category_image": "https://i.pinimg.com/750x/e1/a6/0b/e1a60b242d91342b86eaa96b216047f6.jpg",
-      "total_wallpaper": "2"
+      "total_wallpaper": "42"
     }
   ],
   "menu": [
